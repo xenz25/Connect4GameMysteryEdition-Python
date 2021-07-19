@@ -1,0 +1,9 @@
+JUST DOUBLE CLICK THE 
+
+>>>	_connect4_main_.exe 
+
+and wait for the game to start, it will start at full screen mode 
+the loading of the game depends on the computer specifications and hardware capability.
+at first run it will load all the assets so take a minute to wait. Thanks.
+
+-xen
